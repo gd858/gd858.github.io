@@ -11,14 +11,15 @@ description: I created this webpage you are on right now with Jekyll and the Cri
 > This was done on Fedora Linux 40 (Workstation Edition)
 {: .prompt-info }
 
-```shell
+This is how tou setup a basic jekyll server
+```bash
 sudo dnf install ruby ruby-devel openssl-devel redhat-rpm-config gcc-c++ @development-tools
 gem install jekyll bundler
 jekyll new myblog
 cd myblog
 bundle exec jekyll serve
 ```
-{: file="setup_jekyll_crispy.sh"}
+{: file="setup_jekyll.sh"}
 
 
 
