@@ -14,7 +14,7 @@
 - **[HotpotQA](https://hotpotqa.github.io/):**  
   Multi-hop reasoning questions requiring information from multiple passages.  
   - GitHub: [hotpotqa/hotpot](https://github.com/hotpotqa/hotpot)
-- **[TriviaQA](http://nlp.cs.washington.edu/triviaqa/):**  
+- **[TriviaQA](https://nlp.cs.washington.edu/triviaqa/):**  
   QA over trivia-style questions and long documents.  
   - GitHub: [allenai/triviaqa](https://github.com/allenai/triviaqa)
 
