@@ -3,6 +3,8 @@
 vendor
 Gemfile.lock
 
+old-posts/
+
 # Jekyll cache
 .jekyll-cache
 .jekyll-metadata
